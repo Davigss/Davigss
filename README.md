@@ -1,16 +1,25 @@
-### Hi there 👋
+# Davi Gomes
 
-<!--
-**Davigss/Davigss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📃 Aluno do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo 
+- 💻 Curso informática (2/4)
+- 📫 davigsousa13@gmail.com
+---
 
-Here are some ideas to get you started:
+### 🏃 -  Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
+
+### 📋 - Ferramentas:
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![microsoft-office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+---
+### 📈 - Status
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Davigss&show_icons=true&theme=gotham" alt="Davigss" />
