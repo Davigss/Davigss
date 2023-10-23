@@ -28,3 +28,11 @@
 ### 📈 - Status
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Davigss&show_icons=true&theme=radical" alt="Davigss" />
+  
+---
+  
+https://github.com/Davigss/Davigss/assets/126773080/224b0c83-4c84-4254-9f6b-d6421be687bb
+
+
+   
+
