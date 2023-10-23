@@ -30,9 +30,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Davigss&show_icons=true&theme=radical" alt="Davigss" />
   
 ---
-  
 
-https://github.com/Davigss/Davigss/assets/126773080/5dccbd3a-5e4e-4e3c-b5ed-ebadb9a656d8
+### 🎶 - Uma mensagem importante!
+
+<p align="center"> <video src="https://github.com/Davigss/Davigss/assets/126773080/5dccbd3a-5e4e-4e3c-b5ed-ebadb9a656d8" />
 
 
 
