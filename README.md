@@ -1,4 +1,4 @@
-# Davi Gomes
+# Davi Gomes 😻
 
 - 📃 Aluno do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo 
 - 💻 Curso informática (2/4)
