@@ -37,7 +37,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção das minhas contrib
 
 ---
 
-### 📈 - Status
+## 📈 - Status
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Davigss&show_icons=true&theme=radical" alt="Davigss" />
   
