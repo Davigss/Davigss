@@ -15,9 +15,7 @@ Entre livros, código, música e a vontade de entender melhor o mundo.
 
 ## Sobre mim
 
-Sou Davi Gomes, de São Bernardo do Campo, SP. Atualmente estudo Direito na Universidade de São Paulo (USP), mas minha trajetória também passa pela tecnologia: antes disso, construí uma base técnica em Informática no IFSP e sigo usando a programação como espaço de curiosidade, criação e estudo.
-
-Este GitHub não é só uma vitrine profissional. Ele é mais como um caderno aberto: tem exercícios, ideias, projetos acadêmicos, experimentos que deram certo, outros que ainda estão tomando forma e pequenos registros da minha caminhada aprendendo a construir coisas.
+Sou Davi Gomes. Atualmente estudo Direito na Universidade de São Paulo (USP), mas minha trajetória também passa pela tecnologia: antes disso, construí uma base estudando Informática no IFSP e sigo usando a programação como espaço de curiosidade, criação e estudo.
 
 ## O que me interessa
 
@@ -25,7 +23,6 @@ Este GitHub não é só uma vitrine profissional. Ele é mais como um caderno ab
 - Tecnologia como ferramenta de organização, expressão e resolução de problemas.
 - Projetos simples, funcionais e feitos com atenção ao detalhe.
 - Música brasileira, especialmente rap, samba e MPB.
-- Aprender sem pressa, mas sem ficar parado.
 
 ## Tecnologia por aqui
 
@@ -61,15 +58,6 @@ Este GitHub não é só uma vitrine profissional. Ele é mais como um caderno ab
 | [SabePouco](https://github.com/Davigss/SabePouco) | Projeto acadêmico em Java com camada web simples e prática de estruturação de código. |
 | [Estudos LP3](https://github.com/Davigss/estudos-lp3) | Repositório de estudos em Python, acompanhando minha evolução na linguagem. |
 
-## GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Davigss&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&text_color=57606a&icon_color=0A66C2" alt="Estatísticas do GitHub de Davi Gomes" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davigss&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&text_color=57606a" alt="Linguagens mais usadas por Davi Gomes" />
-
-</div>
-
 ## Música
 
 <div align="center">
@@ -82,7 +70,7 @@ Este GitHub não é só uma vitrine profissional. Ele é mais como um caderno ab
 
 <div align="center">
 
-Obrigado pela visita. Por aqui tem estudo, tentativa, música e um pouco do caminho sendo feito.
+Obrigado pela visita.
 
 **Rap é compromisso.**
 
