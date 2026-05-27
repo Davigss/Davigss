@@ -3,7 +3,7 @@
 # Davi Gomes
 
 **Estudante de Direito na USP**  
-Entre livros, código, música e a vontade de entender melhor o mundo.
+É verdade, sem mentira, certo e muito verdadeiro.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi_Gomes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/davi-gomes-a032b8302)
 [![GitHub](https://img.shields.io/badge/GitHub-Davigss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davigss)
@@ -53,10 +53,10 @@ Sou Davi Gomes. Atualmente estudo Direito na Universidade de São Paulo (USP), m
 
 | Projeto | O que é |
 | --- | --- |
+| [FindMyCar](https://github.com/Gizetto61/FindMyCar) | Aplicação web feita no curso técnico em Informática do IFSP para recomendar o carro ideal, usando Flask, Python e MySQL. |
+| [PatasAmigas](https://github.com/Gizetto61/Projeto_LP2-Quirino) | Projeto de Linguagem de Programação 2 em Java, pensado para organizar cadastros e processos de adoção de animais via terminal. |
+| [Stats.movie](https://github.com/stats-movie) | Projeto colaborativo sobre cinema e estatísticas, juntando tecnologia, dados e curiosidade por audiovisual. |
 | [Painel de Bingo](https://github.com/Davigss/painel-bingo) | Um painel web para bingo presencial, feito para funcionar localmente, com versão portátil, desktop e deploy estático. |
-| [Gerenciador de Tarefas](https://github.com/Davigss/Gerenciador-de-Tarefas) | Um projeto em Java para praticar lógica, organização de funcionalidades e construção de aplicações. |
-| [SabePouco](https://github.com/Davigss/SabePouco) | Projeto acadêmico em Java com camada web simples e prática de estruturação de código. |
-| [Estudos LP3](https://github.com/Davigss/estudos-lp3) | Repositório de estudos em Python, acompanhando minha evolução na linguagem. |
 
 ## Música
 
